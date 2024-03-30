@@ -16,8 +16,12 @@ body{
 }
 
 .intro{
-
+    font-size: 50px;
 }
 a{
     color: white;
+}
+.int{
+    font-size: 20px;
+    font-weight: bold;
 }
