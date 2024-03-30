@@ -8,6 +8,13 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background-color: black;
 }
+.selfintro{
+    margin-top: -10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
 .intro{
 
 }
