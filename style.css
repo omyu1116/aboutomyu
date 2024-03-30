@@ -1,10 +1,13 @@
 body{
-    background-color: brown;
+    background-color: #36393e;
     color: white;
 }
 .headline{
     text-align: center;
 }
 .intro{
-    
+
+}
+a{
+    color: white;
 }
