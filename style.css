@@ -4,6 +4,8 @@ body{
 }
 .headline{
     text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
 }
 .intro{
 
