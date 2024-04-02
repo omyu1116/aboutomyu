@@ -2,22 +2,18 @@ body{
     background-color: #36393e;
     color: white;
 }
-.headline{
-    text-align: center;
-    font-size: 100px;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: black
-}
-.headline{
-    margin-top: -10px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-}
+.title {
+    margin-right: auto;
+  }
 .intro{
     text-align: center;
     font-size: 70px;
 }
+.menu-item {
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+  }
 a{
     color: white;
 }
