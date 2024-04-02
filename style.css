@@ -16,6 +16,7 @@ body{
 }
 .intro{
     text-align: center;
+    font-size: 70px;
 }
 a{
     color: white;
@@ -25,6 +26,15 @@ p{
 }
 .bloglink{
     font-size: 50px;
+    font-weight: bold;
+
+}
+.blogtitle{
+    font-size: 50px;
+    font-weight: bold;
+}
+.bloghonbun{
+    font-size: 30px;
     font-weight: bold;
 
 }
